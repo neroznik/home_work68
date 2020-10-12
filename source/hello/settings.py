@@ -39,8 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'widget_tweaks',
     'accounts',
-    'webapp',
-]
+    'webapp']
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
